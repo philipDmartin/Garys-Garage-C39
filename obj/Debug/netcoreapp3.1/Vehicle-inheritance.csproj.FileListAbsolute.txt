@@ -1,0 +1,13 @@
+C:\Users\phili\source\C#-C39\Vehicle-inheritance\bin\Debug\netcoreapp3.1\Vehicle-inheritance.exe
+C:\Users\phili\source\C#-C39\Vehicle-inheritance\bin\Debug\netcoreapp3.1\Vehicle-inheritance.deps.json
+C:\Users\phili\source\C#-C39\Vehicle-inheritance\bin\Debug\netcoreapp3.1\Vehicle-inheritance.runtimeconfig.json
+C:\Users\phili\source\C#-C39\Vehicle-inheritance\bin\Debug\netcoreapp3.1\Vehicle-inheritance.runtimeconfig.dev.json
+C:\Users\phili\source\C#-C39\Vehicle-inheritance\bin\Debug\netcoreapp3.1\Vehicle-inheritance.dll
+C:\Users\phili\source\C#-C39\Vehicle-inheritance\bin\Debug\netcoreapp3.1\Vehicle-inheritance.pdb
+C:\Users\phili\source\C#-C39\Vehicle-inheritance\obj\Debug\netcoreapp3.1\Vehicle-inheritance.csprojAssemblyReference.cache
+C:\Users\phili\source\C#-C39\Vehicle-inheritance\obj\Debug\netcoreapp3.1\Vehicle-inheritance.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\C#-C39\Vehicle-inheritance\obj\Debug\netcoreapp3.1\Vehicle-inheritance.AssemblyInfoInputs.cache
+C:\Users\phili\source\C#-C39\Vehicle-inheritance\obj\Debug\netcoreapp3.1\Vehicle-inheritance.AssemblyInfo.cs
+C:\Users\phili\source\C#-C39\Vehicle-inheritance\obj\Debug\netcoreapp3.1\Vehicle-inheritance.dll
+C:\Users\phili\source\C#-C39\Vehicle-inheritance\obj\Debug\netcoreapp3.1\Vehicle-inheritance.pdb
+C:\Users\phili\source\C#-C39\Vehicle-inheritance\obj\Debug\netcoreapp3.1\Vehicle-inheritance.genruntimeconfig.cache
