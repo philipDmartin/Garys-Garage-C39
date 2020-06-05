@@ -2,24 +2,26 @@ using System;
 
 namespace Vehicle_inheritance
 {
-    public class Zero : Vehicle  // Electric motorcycle
+    public class Tesla : Vehicle, IElectric  // Electric car
     {
         public double BatteryKWh { get; set; }
+        public double CurrentChargePercentage { get; set; }
+
         public void ChargeBattery()
         {
             // method definition omitted
         }
         public override void Drive()
         {
-            Console.WriteLine($"The {MainColor} Zero drives past. BrummmBrummmMmMmMm!");
+            Console.WriteLine($"The {MainColor} Tesla drives past. MMmmmmmmmm!");
         }
         public override void Turn(string direction)
         {
-            Console.WriteLine($"The Zero will turn {direction}");
+            Console.WriteLine($"The Tesla will turn {direction}");
         }
         public override void Stop()
         {
-            Console.WriteLine($"The Zero will Stop");
+            Console.WriteLine($"The Tesla will Stop");
         }
     }
 }
